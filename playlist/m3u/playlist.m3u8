@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
+http://103.167.255.18:8085/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (576p)
+http://103.167.255.18:8085/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@SD",Star Sports 2 (576p)
+http://103.167.255.18:8085/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
+http://103.167.255.18:8085/play/a0jj/index.m3u8
